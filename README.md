@@ -1,6 +1,6 @@
-# Aprendendo a extrair informações de uma página web 
+# Extraindo informações de uma página web 
 
-Nesse projeto usei o framework scrapy para extrair algumas informações do site Tripadvisor a respeito da **Lagoa do Paraíso** em **Jericoacoara(Ceará)** local que pretendo conhecer em breve.
+Nesse projeto foi utilizado o framework scrapy para extrair algumas informações do site Tripadvisor a respeito do local experimental **Lagoa do Paraíso** em **Jericoacoara(Ceará)**.
 
 Foram extraídas as seguintes informações:
 
@@ -37,5 +37,5 @@ No arquivo items.py e comentarios.py (esse último arquivo está na pasta spider
 
 ### Exportando os dados:
 
-Depois que os dados foram extraídos as informações foram salvas em arquivos .csv e .json, o intuito e deixar os dados devidamente preparados para uma análise mais profunda.
+Depois que os dados foram extraídos as informações foram salvas em arquivos .csv e .json com o intuito de armazenar dados devidamente preparados para uma análise mais profunda.
 
